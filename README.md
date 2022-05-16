@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KossiJunior
-- 👀 I’m interested in Infosec, Pentests, Networks, Programming, Systems ....
-- 🌱 I’m currently learning Networks, Programming, Systems, Infosec
-- 💞️ I’m looking to collaborate on everything i can
+- 👀 I’m interested in Infosec, Blue teaming, Pentests, Networks ..
+- 🌱 I’m currently learning Infosec, Networks, Programming, Systems..
 - 📫 How to reach me kossivijunior@yahoo.fr PGP KEY : 0x7B9A2A19E8816CAC
 
 <!---
