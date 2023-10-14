@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KossiJunior
-- 👀 I’m interested in Infosec, Blue teaming, Pentests, DFIR
+- 👀 I’m interested in Infosec, Blue teaming, Digital Forensics and Incident Response
 - 📫 How to reach me kossivijunior@yahoo.fr PGP KEY : 0x7B9A2A19E8816CAC
 
 <!---
